@@ -1,0 +1,5 @@
+1) First name: Andrey
+2) Last name: Deneshik
+3) Age: 36
+4) Pets: 0
+5) Salary: 1000$
